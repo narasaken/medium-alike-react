@@ -1,0 +1,13 @@
+.footer {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    margin-right: 160px;
+    color: #081E34;
+    margin-top: 52px;
+}

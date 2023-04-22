@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 160px;
+}
+
+header p {
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+header h1 {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 120px;
+}
